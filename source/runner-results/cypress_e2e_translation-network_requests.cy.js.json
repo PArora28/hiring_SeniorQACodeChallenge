@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-02-19T21:26:32.549Z",
+  "duration": 3801,
+  "file": "cypress/e2e/translation-network_requests.cy.js"
+}

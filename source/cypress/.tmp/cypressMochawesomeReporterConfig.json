@@ -1,0 +1,13 @@
+{
+  "jsonDir": "/Users/pooja/Documents/hiring_SeniorQACodeChallenge/source/cypress/reports/html/.jsons",
+  "reporterOptions": {
+    "cypressParallel": true,
+    "reportDir": "/Users/pooja/Documents/hiring_SeniorQACodeChallenge/source/cypress/reports/html",
+    "overwrite": false
+  },
+  "screenshotsDir": "/Users/pooja/Documents/hiring_SeniorQACodeChallenge/source/cypress/screenshots",
+  "videosFolder": "/Users/pooja/Documents/hiring_SeniorQACodeChallenge/source/cypress/videos",
+  "outputDir": "/Users/pooja/Documents/hiring_SeniorQACodeChallenge/source/cypress/reports/html",
+  "configOutput": "cypress/.tmp/cypressMochawesomeReporterConfig.json",
+  "removeJsonsFolderAfterMerge": false
+}

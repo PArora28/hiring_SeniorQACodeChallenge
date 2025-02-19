@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-02-19T21:26:39.141Z",
+  "duration": 3155,
+  "file": "cypress/e2e/geoip-network_requests.cy.js"
+}

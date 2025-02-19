@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-02-19T21:26:33.412Z",
+  "duration": 3391,
+  "file": "cypress/e2e/vendor-list-network_requests.cy.js"
+}

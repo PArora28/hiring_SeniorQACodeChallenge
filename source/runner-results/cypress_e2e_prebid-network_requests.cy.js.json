@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-02-19T21:26:37.663Z",
+  "duration": 3144,
+  "file": "cypress/e2e/prebid-network_requests.cy.js"
+}
